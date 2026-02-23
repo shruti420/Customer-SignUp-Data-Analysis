@@ -65,3 +65,9 @@ This project analyzes customer sign-up data for a SaaS company (Rapid Scale) to 
 * Cleaned dataset
 
 * Final PDF report
+<img width="712" height="352" alt="image" src="https://github.com/user-attachments/assets/9dfa27d3-0541-48ce-9124-dbd27479bc2d" />
+
+<img width="568" height="352" alt="image" src="https://github.com/user-attachments/assets/877f5824-bb24-417e-8348-3f5f83f3c011" />
+
+<img width="568" height="352" alt="image" src="https://github.com/user-attachments/assets/346a135c-72fa-4435-8f20-7e8864bd24f8" />
+
